@@ -748,6 +748,7 @@
 * [ListLang](https://www.listlang.com/) - Most Used Words in Any Language
 * [Alphabetpedia](https://www.alphabetpedia.com/) - Multiple Language Alphabets
 * [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
+* [NeonLingo](https://www.neonlingo.com/) - Turning your browser into a foreign language learning notebook!
 
 ***
 
